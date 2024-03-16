@@ -2,9 +2,9 @@
 Visualizing Health: Advancements in Medical Image Recognition for Accurate Diagnoses.
 <h1 align="center" style="border-bottom: none">
     <b>
-        <a href="https://www.google.com"> Title of the project </a><br>
-    </b>
-    ⭐️This is a sample tag line  ⭐️ <br>
+        <a href="https://www.google.com">       Visualizing Health: Advancements in Medical Image Recognition for Accurate Diagnoses.
+![image](https://github.com/Imran4554/V-H-148/assets/163668185/dce350d2-d058-4b29-b4c8-ca298bcb7b8a)
+ </a><br>
 </h1>
 
 # [`Website link`](http://www.google.com)  [`Demo video link `](http://www.google.com) [`Other links `](http://www.google.com) 
