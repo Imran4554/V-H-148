@@ -79,8 +79,9 @@ Solution with Technology:
 By following this approach and utilizing advanced computer vision and machine learning techniques, we have developed a robust solution for improving the accuracy, efficiency, and reliability of disease detection and diagnosis in medical imaging. Through systematic preprocessing, feature extraction, training of machine learning models, and validation processes, our technology enables accurate and timely diagnoses, ultimately enhancing patient care and outcomes.
 
 
+![Screenshot 2024-03-16 234549](https://github.com/Imran4554/V-H-148/assets/163668185/3270358e-8fcf-4833-a8bc-68c3ed1582f5)
 
-![Screenshot 2024-03-16 234150](https://github.com/Imran4554/V-H-148/assets/163668185/b41ef1a7-9633-473c-8ebc-7b45602c0fb7)
+
 
 
 ## Techstacks used 
